@@ -1,0 +1,10 @@
+May 19 00:20:43.976 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+May 19 00:20:43.978 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 56089.
+May 19 00:20:44.457 HYPERVISOR: exec_cmd: hypervisor version 
+May 19 00:20:44.458 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Admin\Desktop\Projeto Temático em Redes de Computadores\PTRC_v5\project-files\dynamips 
+May 19 00:20:44.458 GENERAL: working_dir=C:\Users\Admin\Desktop\Projeto Temático em Redes de Computadores\PTRC_v5\project-files\dynamips
+May 19 00:20:44.459 HYPERVISOR: exec_cmd: ethsw create Engenharia 
+May 19 00:20:47.038 HYPERVISOR: exec_cmd: ethsw delete Engenharia 
+May 19 00:20:47.044 HYPERVISOR: exec_cmd: hypervisor stop 
+May 19 00:20:47.490 HYPERVISOR: Stopped.
+May 19 00:20:47.490 GENERAL: reset done.

@@ -25,8 +25,8 @@ Realização e implementação de um protótipo de rede empresarial instituindo 
 - Importar o projeto [PTRC.gns3](app/PTRC.gns3) no GNS3.
 
 # Documentação
-- [Relatório](relatorio.pdf)
-- [Enunciado](enunciado.pdf)
+- [Relatório](report.pdf)
+- [Enunciado](outline.pdf)
 
 # Autores
 - Carlos Girão

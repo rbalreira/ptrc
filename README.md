@@ -1,10 +1,10 @@
 # Projeto Temático em Redes de Computadores
 Projeto no âmbito do Módulo Temático em Redes e Computadores da licenciatura em [Tecnologias da Informação](https://www.ua.pt/pt/curso/63) da [Universidade de Aveiro - Escola Superior de Tecnologia e Gestão de Águeda](https://www.ua.pt/pt/estga).
 
-# Objetivo
+## Objetivo
 Realização e implementação de um protótipo de rede empresarial instituindo quatro departamentos em três edifícios respeitando os serviços de segurança, atribuindo a cada departamento uma única identificação através de um endereço, respeitando os critérios envolventes nos serviços de segurança e configuração da rede. Também se definiu um endereço do protocolo IP em volta dos edifícios de forma a abranger todas as redes IP existentes nos mesmos.
 
-# Tecnologias e Protocolos
+## Tecnologias e Protocolos
 - [GNS3](https://www.gns3.com/)
 - [VirtualBox](https://www.virtualbox.org/)
 - Linux
@@ -21,14 +21,14 @@ Realização e implementação de um protótipo de rede empresarial instituindo 
 - VPN
 - Web Server
 
-# Instalação
+## Instalação
 - Importar o projeto [PTRC.gns3](app/PTRC.gns3) no GNS3.
 
-# Documentação
+## Documentação
 - [Relatório](report.pdf)
 - [Enunciado](outline.pdf)
 
-# Autores
+## Autores
 - Carlos Girão
 - Cláudio Cruz
 - Pedro Moreno
